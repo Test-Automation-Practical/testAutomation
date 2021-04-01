@@ -1,7 +1,7 @@
 # Engenheiro de Qualidade de Software Pleno – Teste Prático
 
 ### Teste prático 1 
-– Dado que um cliente do banco XPTO deseja realizar um saque de um determinado valor de sua conta bancária. Implemente uma função que permita que o cliente realize o saque de sua conta bancária e em seguida implemente um teste unitário para essa função de saque (Considere aplicar saques positivos e negativos no teste). Utilize as classes abaixo para o desenvolvimento do programa.
+* Dado que um cliente do banco XPTO deseja realizar um saque de um determinado valor de sua conta bancária. Implemente uma função que permita que o cliente realize o saque de sua conta bancária e em seguida implemente um teste unitário para essa função de saque (Considere aplicar saques positivos e negativos no teste). Utilize as classes abaixo para o desenvolvimento do programa.
 
 ### Classe cliente
  ```java
@@ -55,7 +55,7 @@ public class Conta {
  
 
 ### Teste prático 2
-- Realizar a validação dos campos de retorno da api dos correios de acordo com o cep informado onde esses campos não podem estar vazios. 
+* Realizar a validação dos campos de retorno da api dos correios de acordo com o cep informado onde esses campos não podem ser vazios. 
 Considere receber o cep de uma variável de ambiente e utilize a aba “Pre-request script” para construir o request da api. Obs: Para esse teste utilize o Postman.
 
 Endpoint : https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente
