@@ -60,8 +60,8 @@ Considere receber o cep de uma variável de ambiente e utilize a aba “Pre-requ
 
 Observação: Para esse teste utilize o Postman.
 
-Download Postman: https://www.postman.com/downloads/
-Endpoint : https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente
+* Download Postman: https://www.postman.com/downloads/
+* Endpoint : https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente
 
 ### Teste Prático 3 
 
@@ -92,39 +92,39 @@ values("HP PAVILION 15Z TOUCH LAPTOP","Simplicity","15.6-inch diagonal Full HD W
 
 * Realize a automação funcional dos 4 cenários abaixo:
 
-> Cenário 1 – Validar especificações do produto
-•	Acessar o site https://advantageonlineshopping.com
-•	No menu, clicar na opção “Special Offer”
-•	Clicar no botão “See offer”
-•	Validar que as especificações do produto de acordo com as informações retornadas do banco de automação 
+* Cenário 1 – Validar especificações do produto
+	* Acessar o site https://advantageonlineshopping.com
+	* No menu, clicar na opção “Special Offer”
+	* Clicar no botão “See offer”
+	* Validar que as especificações do produto de acordo com as informações retornadas do banco de automação 
 
-> Cenário 2 – Validar alteração de cor do produto no carrinho
-•	Acessar o site https://advantageonlineshopping.com
-•	No menu, clicar na opção “Special Offer”
-•	Clicar no botão “See offer”
-•	Alterar a cor do produto de acordo com a cor informada no banco de automação
-•	Clicar no botão “Add to cart”
-•	Validar que produto foi adicionado ao carrinho com a cor selecionada
+* Cenário 2 – Validar alteração de cor do produto no carrinho
+	* Acessar o site https://advantageonlineshopping.com
+	* No menu, clicar na opção “Special Offer”
+	* Clicar no botão “See offer”
+	* Alterar a cor do produto de acordo com a cor informada no banco de automação
+	* Clicar no botão “Add to cart”
+	* Validar que produto foi adicionado ao carrinho com a cor selecionada
 
-> Cenário 3 – Remover produto do carrinho de compras
-•	Acessar o site https://advantageonlineshopping.com
-•	No menu, clicar na opção “Special Offer”
-•	Clicar no botão “See offer”
-•	Clicar no botão “Add to cart”
-•	Clicar no carrinho de compras
-•	Remover produto do carrinho de compras
-•	Validar que o carrinho de compras está vazio
+* Cenário 3 – Remover produto do carrinho de compras
+	* Acessar o site https://advantageonlineshopping.com
+	* No menu, clicar na opção “Special Offer”
+	* Clicar no botão “See offer”
+	* Clicar no botão “Add to cart”
+	* Clicar no carrinho de compras
+	* Remover produto do carrinho de compras
+	* Validar que o carrinho de compras está vazio
 
-> Cenário 4 – Validar página de checkout
-•	Acessar o site https://advantageonlineshopping.com
-•	Pesquisar o produto clicando no ícone de lupa (Seguir o nome do produto do banco de automação)
-•	Selecionar produto pesquisado
-•	Alterar a cor do produto para uma diferente da existente no banco de automação
-•	Alterar a quantidade de produtos que deseja comprar
-•	Clicar no botão “Add to cart”
-•	Acessar a página de checkout
-•	Validar que a soma dos preços corresponde ao total apresentado na página de checkout
-•	Realizar um update no banco de automação alterar a cor existente no banco para a cor selecionada no teste.
+* Cenário 4 – Validar página de checkout
+	* Acessar o site https://advantageonlineshopping.com
+	* Pesquisar o produto clicando no ícone de lupa (Seguir o nome do produto do banco de automação)
+	* Selecionar produto pesquisado
+	* Alterar a cor do produto para uma diferente da existente no banco de automação
+	* Alterar a quantidade de produtos que deseja comprar
+	* Clicar no botão “Add to cart”
+	* Acessar a página de checkout
+	* Validar que a soma dos preços corresponde ao total apresentado na página de checkout
+	* Realizar um update no banco de automação alterar a cor existente no banco para a cor selecionada no teste.
 
 
 ### Não esqueça de realizar um commit e push no seu github particular em arquivo zip, sendo que, o nome do arquivo deve ser o seu nome completo e nos encaminhe o link do repositório.
