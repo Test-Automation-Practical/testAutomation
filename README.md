@@ -115,7 +115,7 @@ values("HP PAVILION 15Z TOUCH LAPTOP","Simplicity","15.6-inch diagonal Full HD W
 •	Remover produto do carrinho de compras
 •	Validar que o carrinho de compras está vazio
 
-Cenário 4 – Validar página de checkout
+> Cenário 4 – Validar página de checkout
 •	Acessar o site https://advantageonlineshopping.com
 •	Pesquisar o produto clicando no ícone de lupa (Seguir o nome do produto do banco de automação)
 •	Selecionar produto pesquisado
@@ -127,4 +127,4 @@ Cenário 4 – Validar página de checkout
 •	Realizar um update no banco de automação alterar a cor existente no banco para a cor selecionada no teste.
 
 
-Não esqueça de realizar um commit e push no seu github particular em arquivo zip, sendo que, o nome do arquivo deve ser o seu nome completo e nos encaminhe o link do repositório.
+### Não esqueça de realizar um commit e push no seu github particular em arquivo zip, sendo que, o nome do arquivo deve ser o seu nome completo e nos encaminhe o link do repositório.
