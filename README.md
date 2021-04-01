@@ -55,9 +55,12 @@ public class Conta {
  
 
 ### Teste prático 2
-* Realizar a validação dos campos de retorno da api dos correios de acordo com o cep informado onde esses campos não podem ser vazios. 
-Considere receber o cep de uma variável de ambiente e utilize a aba “Pre-request script” para construir o request da api. Obs: Para esse teste utilize o Postman.
+* Realizar a validação dos campos de retorno da api dos correios de acordo com o cep informado, onde esses campos não podem ser vazios. 
+Considere receber o cep de uma variável de ambiente e utilize a aba “Pre-request script” para construir o request da api. 
 
+Observação: Para esse teste utilize o Postman.
+
+Download Postman: https://www.postman.com/downloads/
 Endpoint : https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente
 
 ### Teste Prático 3 
@@ -87,15 +90,15 @@ values("HP PAVILION 15Z TOUCH LAPTOP","Simplicity","15.6-inch diagonal Full HD W
 
 ```
 
-– Realize a automação funcional dos 4 cenários abaixo:
+* Realize a automação funcional dos 4 cenários abaixo:
 
-Cenário 1 – Validar especificações do produto
+> Cenário 1 – Validar especificações do produto
 •	Acessar o site https://advantageonlineshopping.com
 •	No menu, clicar na opção “Special Offer”
 •	Clicar no botão “See offer”
 •	Validar que as especificações do produto de acordo com as informações retornadas do banco de automação 
 
-Cenário 2 – Validar alteração de cor do produto no carrinho
+> Cenário 2 – Validar alteração de cor do produto no carrinho
 •	Acessar o site https://advantageonlineshopping.com
 •	No menu, clicar na opção “Special Offer”
 •	Clicar no botão “See offer”
@@ -103,7 +106,7 @@ Cenário 2 – Validar alteração de cor do produto no carrinho
 •	Clicar no botão “Add to cart”
 •	Validar que produto foi adicionado ao carrinho com a cor selecionada
 
-Cenário 3 – Remover produto do carrinho de compras
+> Cenário 3 – Remover produto do carrinho de compras
 •	Acessar o site https://advantageonlineshopping.com
 •	No menu, clicar na opção “Special Offer”
 •	Clicar no botão “See offer”
