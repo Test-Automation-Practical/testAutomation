@@ -130,5 +130,5 @@ values("HP PAVILION 15Z TOUCH LAPTOP","Simplicity","15.6-inch diagonal Full HD W
 	* Realizar um update no banco de automação alterar a cor existente no banco para a cor selecionada no teste.
 
 
-### Não esqueça de realizar um commit e push no seu github particular em arquivo zip, seguindo o padrão abaixo:
+### Não esqueça de nos encaminhar o link do seu github particular com o teste completo no formato .zip, seguindo o padrão abaixo:
 [nomecompleto]-[nomedavaga].zip
