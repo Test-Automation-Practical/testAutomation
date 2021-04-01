@@ -3,6 +3,8 @@
 ### Teste prático 1 
 * Dado que um cliente do banco XPTO deseja realizar um saque de um determinado valor de sua conta bancária. Implemente uma função que permita que o cliente realize o saque de sua conta bancária e em seguida implemente um teste unitário para essa função de saque (Considere aplicar saques positivos e negativos no teste). Utilize as classes abaixo para o desenvolvimento do programa.
 
+Observação: Utilize a liguagem que preferir para o desenvolvimento do teste prático
+
 ### Classe cliente
  ```java
  
@@ -56,10 +58,11 @@ public class Conta {
 
 ### Teste prático 2
 * Realizar a validação dos campos de retorno da api dos correios de acordo com o cep informado, onde esses campos não podem ser vazios. 
-Considere receber o cep de uma variável de ambiente e utilize a aba “Pre-request script” para construir o request da api. 
+Considere receber o cep de uma variável de ambiente e utilize a aba “Pre-request script” para construir o request da api (Caso utilize o postman). 
 
-Observação: Para esse teste utilize o Postman.
+Observação: Para a realização desse teste assuma utilizar Postman ou SoapUI .
 
+* Download SoapUI: https://www.soapui.org/downloads/soapui/
 * Download Postman: https://www.postman.com/downloads/
 * Endpoint : https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente
 
@@ -90,7 +93,7 @@ values("HP PAVILION 15Z TOUCH LAPTOP","Simplicity","15.6-inch diagonal Full HD W
 
 ```
 
-* Realize a automação funcional dos 4 cenários abaixo:
+* Transcreva os cenários abaixo em gherkin e após isso realize a automação dos mesmos:
 
 * Cenário 1 – Validar especificações do produto
 	* Acessar o site https://advantageonlineshopping.com
