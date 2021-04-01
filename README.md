@@ -1,7 +1,7 @@
 # Engenheiro de Qualidade de Software Pleno – Teste Prático
 
 ### Teste prático 1 
-– Dado que um cliente do banco XPTO deseja realizar um saque de um determinado valor de sua conta bancária. Implemente uma função que permita que o cliente realize o saque de sua conta bancária e em seguida implemente um teste unitário para essa função de saque (Considere aplicar saques positivos e negativos no teste). Considere as classes abaixo para o desenvolvimento do programa.
+– Dado que um cliente do banco XPTO deseja realizar um saque de um determinado valor de sua conta bancária. Implemente uma função que permita que o cliente realize o saque de sua conta bancária e em seguida implemente um teste unitário para essa função de saque (Considere aplicar saques positivos e negativos no teste). Utilize as classes abaixo para o desenvolvimento do programa.
 
 ### Classe cliente
  ```java
